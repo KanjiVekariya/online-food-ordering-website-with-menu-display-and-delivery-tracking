@@ -101,7 +101,7 @@ include 'head.php';
 </style>
 
 <nav>
-  <div class="logo" onclick="window.location.href='index.php'">ShoppingBazzar</div>
+  <div class="logo" onclick="window.location.href='index.php'">DailyBites</div>
   <ul>
     <li><a href="index.php">Home</a></li>
     <li><a href="menu.php">Menu</a></li>
@@ -122,3 +122,4 @@ include 'head.php';
     <?php endif; ?>
   </ul>
 </nav>
+
